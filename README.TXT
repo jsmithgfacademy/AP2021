@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Framework for APCS Etch A Sketch project.
+Objectives:  Work with using classes using the ACM Java Task Force package. Continue practicing with the String class. 
+Students should pay special attention to Java class terminology:
+Calling constructors
+Calling methods for instances
+Parameters (formal and actual (also called arguments))
